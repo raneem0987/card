@@ -1,0 +1,68 @@
+.bigger{
+    background-image: url(favicon-32x32.png);
+    width: 1000px;
+    height: 700px;
+}
+
+.bbground{
+    background-color: hsl(47, 88%, 63%);
+    width: 800px;
+    height: 500px;
+    margin: 0;
+    margin-top: 100px;
+    display: inline-block;
+}
+
+.sbground{
+    background-color: hsl(0, 0%, 100%);
+    width: 250px;
+    height: 368px;
+    margin: 0;
+    margin-top: 71px;
+    border-radius: 10px;
+    border: 1px solid hsl(0, 0%, 42%);
+    box-shadow: 5px 5px hsl(0, 0%, 7%);
+    
+}
+
+.sbground h1{
+    background-color: hsl(47, 88%, 63%);
+    width: 48px;
+    height: 17px;
+    border-radius: 3px;
+    font-size: x-small;
+    margin-left: -176px;
+    margin-top: 13px;
+}
+
+.sbground span{
+    position: absolute;
+    font-size: x-small;
+    margin-left: -111px;
+    margin-top: 6px;
+}
+
+.sbground h2{
+    position: absolute;
+    font-size: large;
+    margin-left: 12px;
+    margin-top: 31px;
+}
+
+.sbground .defination{
+    color: hsl(0, 0%, 42%);
+    text-align: left;
+    margin-left: 12px;
+    margin-top: 71px;
+}
+
+.sbground img{
+    width: 25px;
+    margin-left: -207px;
+}
+
+.sbground .name{
+    font-size: x-small;
+    margin-top: -21px;
+    margin-left: -108px;
+}
